@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="카테고리">
+    <item>ITㆍ프로그래밍</item>
+    <item>디자인</item>
+    <item>영상</item>
+    </string-array>
+
+    <string-array name="IT">
+        <item>모바일 앱</item>
+        <item>웹</item>
+        <item>프로그램</item>
+        <item>워드프레스</item>
+        <item>데이터</item>
+        <item>기획</item>
+        <item>메타버스</item>
+    </string-array>
+
+    <string-array name="디자인">
+        <item>로고ㆍ브랜딩</item>
+        <item>상세ㆍ이벤트 페이지</item>
+        <item>명함ㆍ인쇄ㆍ홍보물</item>
+        <item>PPTㆍ인포그래픽</item>
+        <item>웹ㆍ모바일ㆍ디자인</item>
+    </string-array>
+
+    <string-array name="영상">
+        <item>영상촬영ㆍ편집</item>
+        <item>인터뷰 영상</item>
+        <item>교육 영상</item>
+        <item>이벤트 영상</item>
+        <item>유튜브 제작</item>
+        <item>온라인 생중계</item>
+    </string-array>
+
+
+
+
+    <string-array name="순서">
+        <item>최신순</item>
+        <item>저가순</item>
+        <item>고가순</item>
+        color
+    </string-array>
+
+    <string-array name="평점">
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+
+
+</resources>
